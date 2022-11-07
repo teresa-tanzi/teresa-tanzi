@@ -1,5 +1,5 @@
 👋 Hi, I’m @teresa-tanzi, a 27 y.o. from Italy <br>
-🎓 In april, 2022 I've obtained my master degree in Computer Science with full grades at Università degli Studi di Milano <br>
+🎓 In april 2022 I've obtained my master degree in Computer Science with full grades at Università degli Studi di Milano <br>
 🗃️ Originally, I created this account to showcase and archive the projects I've implemented during my studies <br>
 🌱 I'm currently working as an IT Security Analyst, but I'd like to pursue a career as a Software Developer <br>
 ✨ I know I've still a lot to learn and I plan to share here all my future personal projects
