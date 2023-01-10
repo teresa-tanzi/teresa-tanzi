@@ -4,6 +4,7 @@
 🌱 I'm currently working as an IT Security Analyst, but I'd like to pursue a career as a Software Developer <br>
 ✨ I've still a lot to learn and I plan to share here my portfolio and personal projects<br>
 📖 What I'm currently learning: React and Java Spring Boot
+📕 What I want to learn next: C# and Unity
 
 <!---
 - 👀 I’m interested in ...
