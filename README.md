@@ -3,6 +3,7 @@
 🗃️ Originally, I created this account to showcase and archive the projects I've implemented during my studies <br>
 🌱 I'm currently working as an IT Security Analyst, but I'd like to pursue a career as a Software Developer <br>
 ✨ I've still a lot to learn and I plan to share here my portfolio and personal projects
+📖 What I'm currently learning: React and Java Spring Boot
 
 <!---
 - 👀 I’m interested in ...
